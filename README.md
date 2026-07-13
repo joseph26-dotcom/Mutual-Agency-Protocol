@@ -1,3 +1,6 @@
+# Mutual Agency Protocol (MAP) // Project Nexus-30
+
+> A zero-overhead system prompt layer that cuts compute noise and slashes LLM token spend by up to 30%.
 
 MAP-LIGHT-v1.0 RELEASE]
 
